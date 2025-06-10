@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/93800b67-9184-4e83-aee7-c684c26a447a) 
-## Category  : Hardware                                                                    
-## Tittle    : It's Oops PM
+![image](https://github.com/user-attachments/assets/93800b67-9184-4e83-aee7-c684c26a447a)                           
+# Tittle      : It's Oops PM
+## Category   : Hardware  
 ![image](https://github.com/user-attachments/assets/334f65ae-811c-4e80-8da3-6b5fd88b5f95)
-## Objective : Find and exploit a backdoor.
-## Assets: 4 .vhdl file and schematic image
+## Objective  : Find and exploit a backdoor.
+## Assets     : 4 .vhdl file and schematic image
 
 ## Method of Solve
 The first step is to understand the system. The schematic shows data coming from an INPUT. This data has two possible paths:
